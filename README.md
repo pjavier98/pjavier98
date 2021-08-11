@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, folks! 👋
 
-<!--
-**pjavier98/pjavier98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things about me:
 
-Here are some ideas to get you started:
+- :computer: I’m currently working on [Hitcode](https://www.hitcode.com.br/) as a FullStack Developer NodeJS and ReactJS
+- 🌱 I’m currently learning: 
+  - NodeJS
+  - ReactJS
+  - Information Security
+- 📫 How to reach me: 
+  - [🔗 Linkedin](https://www.linkedin.com/in/pedro-javier/)   
+  - [📧 Email](mailto:pjpc@outlook.com.br)
+- 🎼 I like to listen to music, watch movies and series and sometimes play games in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pedro Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjavier98&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjavier98&theme=radical)](https://github.com/pjavier98/github-readme-stats)
+
