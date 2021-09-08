@@ -8,7 +8,7 @@ Here are some things about me:
   - ReactJS
   - Information Security
 - 📫 How to reach me: 
-  - [🔗 Linkedin](https://www.linkedin.com/in/pedro-javier/)   
+  - [🔗 Linkedin](https://www.linkedin.com/in/pjavier98/)   
   - [📧 Email](mailto:pjpc@outlook.com.br)
 - 🎼 I like to listen to music, watch movies and series and sometimes play games in my free time.
 
