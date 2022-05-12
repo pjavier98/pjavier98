@@ -2,13 +2,13 @@
 
 Here are some things about me:
 
-- :computer: I’m currently working on [Hitcode](https://www.hitcode.com.br/) as a FullStack Developer NodeJS and ReactJS
+- :computer: I’m a FullStack Developer NodeJS and ReactJS
 - 🌱 I’m currently learning: 
   - NodeJS
   - ReactJS
   - Information Security
 - 📫 How to reach me: 
-  - [🔗 Linkedin](https://www.linkedin.com/in/pjavier98/)   
+  - [🔗 Linkedin](https://www.linkedin.com/in/pjavier98)   
   - [📧 Email](mailto:pjpc@outlook.com.br)
 - 🎼 I like to listen to music, watch movies and series and sometimes play games in my free time.
 
